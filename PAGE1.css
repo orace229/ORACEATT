@@ -1,0 +1,9 @@
+body{
+    font-size: x-large;
+    background-image: url(P1.jpg);
+    color: aliceblue;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+.fond{background-image: url(p8.png); background-size: ;}
